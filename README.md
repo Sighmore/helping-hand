@@ -22,3 +22,30 @@ Prerequisites
 Node.js (version 14.17.0 or higher)
 npm (version 6.14.13 or higher)
 yarn (version 1.22.10 or higher)
+
+Installation
+Clone the repository:
+bash
+git clone https://github.com/Sighmire/helping-hand.git
+
+Navigate to the project directory:
+bash
+cd helping-hand
+
+Install dependencies:
+bash
+npm install
+
+Start the development server:
+bash
+npm run start
+
+Running the Application
+Open a new terminal window.
+Navigate to the project directory:
+bash
+cd helping-hand-ngo-website
+
+Start the development server:
+bash
+npm run start
